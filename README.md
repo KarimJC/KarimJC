@@ -1,5 +1,5 @@
 # Welcome!
-I'm Karim, a third year computer science and behavioral neuroscience student at Northeastern University. I'm always interested in new projects and am currently looking for co-ops for this upcoming Winter/Spring as well as internships for the summer. Find more info about me on <a href="https://www.linkedin.com/in/karim-camara-9897462a4/">LinkedIn</a> or reach out at camara.k@northeastern.edu.
+I'm Karim, a third year computer science and behavioral neuroscience student at Northeastern University. I'm always interested in new projects and am currently looking for co-ops for this upcoming winter/spring as well as internships for the summer. Find more info about me on <a href="https://www.linkedin.com/in/karim-camara-9897462a4/">LinkedIn</a> or reach out at camara.k@northeastern.edu.
 
 ## Technologies I Know
 
